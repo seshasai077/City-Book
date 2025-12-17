@@ -22,7 +22,7 @@ let FamousCities = () => {
                                 </div>
                                 <div className="card-body">
                                     <p className="fw-bold"><span className="text-danger">Italy</span><span >- Burano</span></p>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam earum dicta aperiam! Dolorem rem amet nam necessitatibus vel! Veritatis, pariatur assumenda eius aliquam incidunt minima labore eum quo a libero.</p>
+                                    <p>Burano is a vibrant island near Venice, famous for its brightly colored houses, lace-making tradition, canals, and charming atmosphere, attracting tourists worldwide for its picturesque beauty and cultural heritage.</p>
                                     {/* <button onClick={ItalyLink} className="btn btn-dark text-white">READ MORE</button> */}
   {/* // anchor tag is used as the btn    */}  <a href="https://en.wikipedia.org/wiki/Burano" className="btn btn-dark" >READ MORE</a> 
                                 </div>
@@ -36,7 +36,7 @@ let FamousCities = () => {
                             </div>
                             <div className="card-body">
                                 <p className="fw-bold "><span className="text-danger">China</span><span >- Shanghai</span></p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam earum dicta aperiam! Dolorem rem amet nam necessitatibus vel! Veritatis, pariatur assumenda eius aliquam incidunt minima labore eum quo a libero.</p>
+                                <p>Shanghai is China’s largest city, blending modern skyscrapers with colonial heritage, thriving finance, culture, and trade. Famous for the Bund, Huangpu River, and vibrant lifestyle, it symbolizes China’s global economic power.</p>
                                 <a href="https://en.wikipedia.org/wiki/Shanghai" className="btn btn-dark" >READ MORE</a>
                             </div>
                         </div>
@@ -48,7 +48,7 @@ let FamousCities = () => {
                             </div>
                             <div className="card-body">
                                 <p className="fw-bold "><span className="text-danger">USA</span><span >- San Francisco</span></p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam earum dicta aperiam! Dolorem rem amet nam necessitatibus vel! Veritatis, pariatur assumenda eius aliquam incidunt minima labore eum quo a libero.</p>
+                                <p>San Francisco is a coastal U.S. city known for the Golden Gate Bridge, steep hills, cable cars, diverse culture, tech innovation, and landmarks like Alcatraz, Chinatown, and Fisherman’s Wharf.</p>
                                 <a href="https://en.wikipedia.org/wiki/San_Francisco" className="btn btn-dark" >READ MORE</a>
                             </div>
                         </div>
